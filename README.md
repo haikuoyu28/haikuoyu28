@@ -25,4 +25,4 @@ I'm a network security student and aspiring developer. I'm passionate about expl
 
 ## GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikuoyu28e&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=haikuoyu28&show_icons=true&theme=radical)
