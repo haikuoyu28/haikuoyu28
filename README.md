@@ -13,11 +13,6 @@ I'm a network security student and aspiring developer. I'm passionate about expl
 - Developing cybersecurity tools with Python.
 - Studying network protocols and encryption.
 
-## Connect with Me
-
-- [Instagram](https://www.instagram.com/haikuoyu28)
-- [X (Twitter)](https://twitter.com/haikuoyu28)
-
 ## My Tech Stack
 
 - **Languages**: Python, JavaScript, HTML, CSS
