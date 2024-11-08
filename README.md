@@ -16,7 +16,7 @@ I'm a network security student and aspiring developer. I'm passionate about expl
 ## My Tech Stack
 
 - **Languages**: Python, JavaScript, HTML, CSS
-- **Tools**: Git, VSCode, Docker
+- **Tools**: Git, VSCode
 
 ## GitHub Stats
 
